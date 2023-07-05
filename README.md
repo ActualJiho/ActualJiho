@@ -28,13 +28,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jiho-burgesskim&show_icons=true&theme=vue" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ActualJiho&show_icons=true&theme=vue" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiho-burgesskim&theme=vue" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ActualJiho&theme=vue" /> 
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiho-burgesskim&theme=vue"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ActualJiho&theme=vue"/>
  </td>
 </tr>
 </table>
