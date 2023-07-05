@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Jiho</h1>
+<h3 align="center">Full Stack Web Developer in Christchurch, New Zealand</h3>
+<img src="https://i.gifer.com/6M8G.gif" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 # Jiho Burgess-Kim 🧑🏻‍💻
 
 ### 🧰 Languages and Tools
@@ -16,7 +22,23 @@
 
 ### 📊 Stats
 
-![Jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho-burgesskim&show_icons=true&theme=vue)
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jiho-burgesskim&show_icons=true&theme=vue" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiho-burgesskim&theme=vue" /> 
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiho-burgesskim&theme=vue"/>
+ </td>
+</tr>
+</table>
+
 
 #
 
