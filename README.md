@@ -44,5 +44,12 @@
 
 <details>
  <summary><h3>👨‍💻 Jiho's Coding Journey</h3></summary>
-   Coming soon
+   My name is Jiho, and I'm a web developer who comes from a background in the telecommunication industry. I have a strong passion for transforming ideas into reality and expressing my creativity through coding.
 
+During my younger years, I had a goal of building my first home. Initially unsure of what I wanted to study, I started working in a customer service role. Now that I have achieved my goal of building my first home, I felt ready to take on a new life challenge by pursuing something that truly interested me as a full-time job.
+
+In my current position at 2degrees, I have had the opportunity to closely collaborate with the development team, which sparked my interest in their work. I had several ideas that I believed could be implemented into our company's systems and found myself questioning, 'Why don't I do this myself?'
+
+Motivated by these thoughts, I reached out to my developer friends for advice, and they highly recommended studying at Dev Academy. While I was also intrigued by user experience design, the idea of creating something from scratch through coding ignited my interest even more. 
+
+Throughout the course, I discovered my passion for front-end design, focusing on creating websites that are visually appealing and responsive to different devices. I recently explored the use of Tailwind CSS, which I found enjoyable once I overcame the initial confusion. It was a valuable experience that further enhanced my skillset.
